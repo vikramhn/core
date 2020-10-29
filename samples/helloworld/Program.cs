@@ -6,6 +6,7 @@ namespace HelloWorldSample
     {
         public static void Main()
         {
+            String password = "sddsdsds";
             Console.WriteLine("Hello World!");
         }
     }
